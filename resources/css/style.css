@@ -1,0 +1,26 @@
+*{
+ background-color:#f6ebf4;
+
+}
+
+h1{
+font-size:2.5rem;
+font-weight:600;
+    
+}
+
+h2{
+    font-size:2rem;
+}
+
+h3{
+
+font-size:1.7rem;
+}
+
+a{
+ background-color:#3a4660;
+ color:#c9af98;
+ text-decoration:none;
+ padding:20px;
+}
